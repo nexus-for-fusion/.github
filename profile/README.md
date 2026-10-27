@@ -13,7 +13,7 @@ Nexus finds what differs between two Oracle Fusion Cloud environments, lets the 
 - [Overview](https://github.com/nexus-for-fusion/docs#readme) · what it does and why
 - [Walkthrough](https://github.com/nexus-for-fusion/docs/blob/main/docs/walkthrough-suppliers.md) · three suppliers moved between two environments, with screenshots
 - [Getting started](https://github.com/nexus-for-fusion/docs/blob/main/docs/getting-started.md) · a proof of concept in one to two hours with two development pods and a 30-day trial key
-- [Contact](mailto:hello@example.com) · ask for a trial key or a walkthrough call
+- [Contact](mailto:enquiries@techprojects.com) · ask for a trial key or a walkthrough call
 
 ## Who it is for
 
